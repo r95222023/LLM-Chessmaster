@@ -1,4 +1,5 @@
 # LLM-Chessmaster
+![Second Move](images/robot-playing-chess.png?raw=true "Second Move")
 
 LLM Chessmaster is a unique program that offers an interactive chess-playing experience powered by a Large Language Model (LLM). This application not only allows you to play chess against various AI models but also provides insightful commentary and strategic explanations throughout the game.
 
